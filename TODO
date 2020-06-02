@@ -4,6 +4,7 @@ numpy - Creating Arrays, Indexing, Math, Statistics, matrix Reshaping, load data
 scipy - Lin algebra, matrix det, SVD, eigen vectors
 scikit learn
 tensorflow
+keras
   
    python IDE
 Jupyter
