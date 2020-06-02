@@ -1,5 +1,15 @@
   python libs : 
-pandas
-numpy
-scipy
+pandas - Reading CSV/Excel files, Sorting, Filtering, Groupby
+numpy - Creating Arrays, Indexing, Math, Statistics, matrix Reshaping, load data from file
+scipy - Lin algebra, matrix det, SVD, eigen vectors
+scikit learn
 tensorflow
+  
+   python IDE
+Jupyter
+Pycharm
+Spyder
+Anaconda
+Google colab
+
+  
