@@ -11,4 +11,4 @@ So I would say this is my second innings with Machine learning and this time, it
 
 All these take me towards starting an exciting journey to deep dive into ML, DL, GAN, RL concepts. Together with my Digital domain knowledge and experience, I'm sure that this crossover will take me towards some amazing applications. If not anything, I would have explored this incredible field of ML.  
 
-Let's the journey begin!
+Let the journey begin!
