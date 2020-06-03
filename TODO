@@ -1,7 +1,7 @@
   python libs : 
 pandas - Reading CSV/Excel files, Sorting, Filtering, Groupby
-numpy - Creating Arrays, Indexing, Math, Statistics, matrix Reshaping, load data from file
-scipy - Lin algebra, matrix det, SVD, eigen vectors
+numpy - Creating Arrays, Indexing, Math, matrix Reshaping, load data from file
+scipy - Lin algebra, matrix det, SVD, eigen vectors, mathematical and scientific functions
 scikit learn
 tensorflow
 keras
