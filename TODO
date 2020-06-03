@@ -1,16 +1,27 @@
   python libs : 
-pandas - Reading CSV/Excel files, Sorting, Filtering, Groupby
-numpy - Creating Arrays, Indexing, Math, matrix Reshaping, load data from file
-scipy - Lin algebra, matrix det, SVD, eigen vectors, mathematical and scientific functions
-scikit learn
-tensorflow
-keras
-  
-   python IDE
-Jupyter
-Pycharm
-Spyder
-Anaconda
-Google colab
+1.  pandas - (dataframe) Reading CSV/Excel files, Sorting, Filtering, Groupby
+2.  numpy - Creating Arrays, Indexing, Math, matrix Reshaping, load data from file
+3.  scipy - (builts on numPy) Lin algebra, matrix det, SVD, eigen vectors, mathematical and scientific functions
+4.  seaborn - sits on matplotlib
 
+  ML libs :
+1.  scikit learn - built on numpy, scipy, matplotlib lib. Tool for data mining and data anal. preprocessng, clustering, classifn, regressn, 
+2.  tensorflow
+3.  keras
   
+   python IDE :
+1.  Jupyter
+2.  Pycharm
+3.  Spyder
+4.  Anaconda
+5.  Google colab
+
+  ML algos :
+1.  random forest classifier and regressor
+2.  decision trees classifier and regressor - supervised  - Common used algos : giri index, chi-square, info gain, reduction in variance  - sckit learn
+3.  support vector machine classifier - kernels : polynomial, RBF, sigmoid
+4.  neural network classifier
+
+
+
+
