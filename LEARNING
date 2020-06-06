@@ -15,20 +15,18 @@
 3.  Spyder
 4.  Anaconda
 5.  Google colab
+6.  Kite
 
-  ML algos 
-1.  linear regression (least squares) and classifier
-2.  random forest classifier and regressor
-3.  decision trees classifier and regressor - supervised  - Common used algos : gini index, chi-square, info gain, reduction in variance  - sckit learn
-4.  support vector (soft margin) machine classifier - kernels : polynomial, RBF, sigmoid, parameter tuning tech : k-fold cross validation - sckit learn
-5.  logistic regression -   
-6.  nearest neighbours
-6.  neural network classifier
+  ML algos :
+1.  random forest classifier and regressor
+2.  decision trees classifier and regressor - supervised  - Common used algos : giri index, chi-square, info gain, reduction in variance  - sckit learn
+3.  support vector machine classifier - kernels : polynomial, RBF, sigmoid
+4.  neural network classifier
 
-  Ensemble algos  - ensemble learning is using multiple algos instead of 1 algo, to predict data eg: random forest uses many decision trees.
-1.  reularization -  ridge, lasso, elastic net regression
-2.  boosting  - ada (adaptive) boost, gradient boost
-3.  bagging (bootstrap aggregating) 
+  EDA :
+1. Feature engineering
+2. Feature selection
+3. Dimentionality reduction
 
 
 
